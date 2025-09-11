@@ -1,9 +1,9 @@
 <svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="40" font-family="Courier New" font-size="40" fill="red">
+  <text x="0" y="40" font-family="Courier New" font-size="40" fill="white">
     Hello World
     <animate attributeName="fill" 
-             values="red;orange;yellow;green;blue;indigo;violet;red" 
-             dur="3s" 
+             values="white;transparent;white" 
+             dur="1.5s" 
              repeatCount="indefinite"/>
   </text>
 </svg>
