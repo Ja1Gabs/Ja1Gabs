@@ -2,7 +2,7 @@
 
 
 
-![Hello World Animado](hello1.svg)
+![Hello World Animado](hello.svg)
 
 
 # Olá, eu sou João Gabriel 👋
