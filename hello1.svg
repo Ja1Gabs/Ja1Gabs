@@ -7,15 +7,16 @@
     :)
     <animate attributeName="opacity" values="0;1;0;0" dur="4s" repeatCount="indefinite"/>
   </text>
-  <text x="50" y="50" font-size="104" text-anchor="middle" dominant-baseline="middle" opacity="0">
+  <text x="50" y="50" font-size="84" text-anchor="middle" dominant-baseline="middle" opacity="0">
     O_O
     <animate attributeName="opacity" values="0;0;1;0" dur="4s" repeatCount="indefinite"/>
   </text>
-  <text x="50" y="50" font-size="104" text-anchor="middle" dominant-baseline="middle" opacity="0">
+  <text x="50" y="50" font-size="84" text-anchor="middle" dominant-baseline="middle" opacity="0">
     UwU
     <animate attributeName="opacity" values="0;0;0;1" dur="4s" repeatCount="indefinite"/>
   </text>
 </svg>
+
 
 
 
