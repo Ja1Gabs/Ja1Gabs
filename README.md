@@ -5,7 +5,6 @@
 ![Hello World Animado](hello.svg)
 
 
-
 # Olá, eu sou João Gabriel 👋
 Sou desenvolvedor front-end e criador de jogos, apaixonado por experiências interativas e projetos criativos.
 
