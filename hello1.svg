@@ -12,10 +12,11 @@
     <animate attributeName="opacity" values="0;0;1;0" dur="4s" repeatCount="indefinite"/>
   </text>
   <text x="50" y="50" font-size="124" text-anchor="middle" dominant-baseline="middle" opacity="0">
-    UWU
+    UwU
     <animate attributeName="opacity" values="0;0;0;1" dur="4s" repeatCount="indefinite"/>
   </text>
 </svg>
+
 
 
 
