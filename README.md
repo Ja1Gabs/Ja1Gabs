@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Hello World Animado](hello.svg)
 
 <!--
 **Ja1Gabs/Ja1Gabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
