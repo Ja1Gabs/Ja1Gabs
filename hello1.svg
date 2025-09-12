@@ -11,7 +11,7 @@
     O_O
     <animate attributeName="opacity" values="0;0;1;0" dur="4s" repeatCount="indefinite"/>
   </text>
-  </text>
 </svg>
+
 
 
