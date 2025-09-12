@@ -25,8 +25,7 @@ Sou desenvolvedor front-end e criador de jogos, apaixonado por experiências int
 | Projeto | GIF | Descrição |
 |---------|-----|-----------|
 | Blue Witch in Bloom | ![Blue Witch](https://via.placeholder.com/250x150.gif?text=Blue+Witch+in+Bloom) | Plataforma 2D com combate, bosses criativos e pixel art. |
-| Outro Projeto | ![Outro](https://via.placeholder.com/250x150.gif?text=Outro+Projeto) | Experimento interativo ou app de front-end. |
-| Projeto Extra | ![Extra](https://via.placeholder.com/250x150.gif?text=Projeto+Extra) | Pequeno projeto com animação e interatividade. |
+| Outro Projeto | ![Outro](https://via.placeholder.com/250x150.gif?text=Outro+Projeto) | Templates de Sites para venda|
 <!--
 > Para cada GIF, você pode adicionar um link para o repositório do projeto:  
 > `[![Blue Witch](link-do-gif)](link-do-projeto)`
