@@ -9,7 +9,9 @@
 Sou desenvolvedor front-end e criador de jogos, apaixonado por experiências interativas e projetos criativos.
 
 💻 Tecnologias: HTML, CSS, JavaScript, Python, sql, react
+
 📚 Conhecimentos: Desenvolvimento de software, Técnico de redes e Infraestrutura
+
 🏃‍♂️ Foco: Jogos, aplicativos interativos, aplicações python, sites e afins.
 
 ---
