@@ -17,9 +17,21 @@ Sou desenvolvedor front-end e criador de jogos, apaixonado por experiências int
 ---
 
 *boas-vindas ao meu mundo!!*
-![Hello World Animado](hello1.svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ja1Gabs&show_icons=true&commits_year=2025&theme=dracula)](https://github.com/Ja1Gabs/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1Gabs&layout=compact&theme=dracula)
 
 
+**Linguagens**
+
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+|--|--|--|--|
+
+
+
+**Infraestrutura**
+
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|
+|--|
 
 
 ## 🛠 Meus Projetos
@@ -28,29 +40,5 @@ Sou desenvolvedor front-end e criador de jogos, apaixonado por experiências int
 |---------|-----|-----------|
 | Blue Witch in Bloom | ![Blue Witch](https://via.placeholder.com/250x150.gif?text=Blue+Witch+in+Bloom) | Plataforma 2D com combate, bosses criativos e pixel art. |
 | Outro Projeto | ![Outro](https://via.placeholder.com/250x150.gif?text=Outro+Projeto) | Templates de Sites para venda|
-<!--
-> Para cada GIF, você pode adicionar um link para o repositório do projeto:  
-> `[![Blue Witch](link-do-gif)](link-do-projeto)`
 
----
-<!--
-## 📈 Contatos e Redes
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- [Twitter](https://twitter.com/seu-twitter)
-- [Portfolio](https://seu-portfolio.com)
 
-![GitHub followers](https://img.shields.io/github/followers/JoaoArruda?style=social)
-<!--
-**Ja1Gabs/Ja1Gabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
