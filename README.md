@@ -36,9 +36,10 @@ Sou desenvolvedor front-end e criador de jogos, apaixonado por experiências int
 
 ## 🛠 Meus Projetos
 
-| Projeto | GIF | Descrição |
+| Projeto | Visual | Descrição |
 |---------|-----|-----------|
-| Blue Witch in Bloom | ![Blue Witch](https://via.placeholder.com/250x150.gif?text=Blue+Witch+in+Bloom) | Plataforma 2D com combate, bosses criativos e pixel art. |
-| Outro Projeto | ![Outro](https://via.placeholder.com/250x150.gif?text=Outro+Projeto) | Templates de Sites para venda|
+| Blue Witch in Bloom |<p align="center"> <img src="tyr.gif" width="70"> </p>| Plataforma 2D com combate, bosses criativos e pixel art. |
+| ClickSite |<p align="center"> <img src="click.png" width="70" height="70"> </p>| Templates de Sites para venda|
+| Streakflow | ![Streak](streak.png) | Um site para organização de rotina|
 
 
