@@ -18,7 +18,7 @@ Sou desenvolvedor front-end e criador de jogos, apaixonado por experiências int
 
 *boas-vindas ao meu mundo!!*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ja1Gabs&show_icons=true&commits_year=2025&theme=dracula)](https://github.com/Ja1Gabs/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1Gabs&layout=compact&theme=dracula)
+
 
 
 **Linguagens**
