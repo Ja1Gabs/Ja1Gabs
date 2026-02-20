@@ -1,4 +1,7 @@
 # 👋 Olá, eu sou João Gabriel
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=28&center=true&vCenter=true&width=700&lines=FullStack+Developer+%26+Game+Creator;Building+Interactive+Systems;Godot+%7C+Web+Apps+%7C+Creative+Projects;Polarized+Forge+%2B+Game+Development" />
+</p>
 
 🎮 Desenvolvedor FullStack & Criador de Jogos
 💡 Apaixonado por experiências interativas, sistemas criativos e projetos autorais
@@ -108,6 +111,19 @@ Não apenas código, mas **mundos, sistemas e experiências**.
 
 ---
 
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ja1Gabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1Gabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ja1Gabs&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ja1Gabs&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+---
 ### ✨ *Obrigado por visitar meu perfil!*
 
 > “Criatividade é a minha melhor característica”
