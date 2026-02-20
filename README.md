@@ -43,6 +43,9 @@ Minha abordagem une **criatividade + lógica + identidade autoral**.
   <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
   <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png">
   <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
+
+
+
 </p>
 
 ---
@@ -57,13 +60,16 @@ Minha abordagem une **criatividade + lógica + identidade autoral**.
 
 ---
 
-## 🛠 Meus Projetos em Destaque
+## 🛠 Projetos em Destaque  
 
-| Projeto                | Visual                                                             | Descrição                                                                |
-| ---------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| 🌸 Blue Witch in Bloom | <p align="center"><img src="tyr.gif" width="70"></p>               | Jogo de plataforma 2D com combate, bosses criativos e pixel art autoral. |
-| 🖱 ClickSite           | <p align="center"><img src="click.png" width="70" height="70"></p> | Sistema de templates de sites voltado para criação rápida de páginas.    |
-| 🔥 Streakflow          | <p align="center"><img src="streak.png" width="70"></p>            | Aplicação de organização de rotina com sistema de streak e performance.  |
+| Projeto | Visual | Descrição |
+|--------|--------|-----------|
+| 🧙‍♂️ Polarized Forge | <p align="center"><img width="447" height="191" alt="image" src="https://github.com/user-attachments/assets/ee9872cf-da95-4a1a-8792-ce70afdd20cc" /></p> | Plataforma web complexa para sessões de RPG online em tempo real. Possui backend estruturado, banco de dados dedicado, sistema próprio de ficha, eventos em tempo real via WebSockets e arquitetura escalável. Em evolução para se tornar um VTT (Virtual Tabletop) completo. |
+| 🌸 Blue Witch in Bloom | <p align="center"><img src="tyr.gif" width="70"></p> | Jogo de plataforma 2D autoral desenvolvido na Godot Engine, com combate mágico, bosses únicos, sistema de progressão por coletáveis e forte direção estética em pixel art. |
+| 🏰 Oakhaven | <p align="center"><img width="1094" height="669" alt="image" src="https://github.com/user-attachments/assets/a4accd4f-dd40-4abd-b4f8-86d7c9819534" /></p> | Projeto de jogo narrativo focado em construção de mundo, sistemas interativos e design de experiência, com identidade própria e abordagem autoral de storytelling. |
+| 🎲 MyRoutine | <p align="center"><img width="295" height="100" alt="image" src="https://github.com/user-attachments/assets/e94c03f7-6f90-4cec-8300-a13370c6fcbb" /></p> | Aplicativo de organização pessoal com geração procedural de rotina semanal, filtros por tipo de atividade, sistema de streak, objetivos e análise de performance. |
+| 🔥 Streakflow | <p align="center"><img src="streak.png" width="70"></p> | Aplicação de produtividade gamificada focada em consistência, acompanhamento de hábitos e métricas de desempenho ao longo do tempo. |
+| 🖱 ClickSite | <p align="center"><img src="click.png" width="70"></p> | Sistema de templates para criação rápida de sites e landing pages personalizáveis, com foco em praticidade e reutilização de layouts. |
 
 ---
 
