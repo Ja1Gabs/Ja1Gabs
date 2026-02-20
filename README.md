@@ -1,9 +1,3 @@
-Aqui está uma versão bem mais bonita, organizada e com identidade forte de dev + game creator, mantendo seu estilo mas deixando com cara de perfil profissional (e ainda com personalidade, que combina com você e com seus projetos como *Blue Witch in Bloom*):
-
-Você pode colar direto no README do perfil:
-
----
-
 # 👋 Olá, eu sou João Gabriel
 
 🎮 Desenvolvedor FullStack & Criador de Jogos
